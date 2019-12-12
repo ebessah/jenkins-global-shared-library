@@ -1,4 +1,4 @@
-package io.bekdev.jenkins.components
+package com.infinityworks.jenkins.components
 
 def test() {
     // Abstracting simple commands like this enables us to

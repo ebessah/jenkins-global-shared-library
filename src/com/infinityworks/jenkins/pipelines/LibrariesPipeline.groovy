@@ -1,4 +1,4 @@
-package io.bekdev.jenkins.pipelines
+package com.infinityworks.jenkins.pipelines
 
 def libraryPipeline() {
     node {
