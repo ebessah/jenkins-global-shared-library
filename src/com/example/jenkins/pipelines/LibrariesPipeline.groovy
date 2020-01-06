@@ -1,4 +1,4 @@
-package com.infinityworks.jenkins.pipelines
+package com.example.jenkins.pipelines
 
 def libraryPipeline() {
     node {

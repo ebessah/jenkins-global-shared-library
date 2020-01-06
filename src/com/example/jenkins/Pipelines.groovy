@@ -1,6 +1,6 @@
-package com.infinityworks.jenkins
+package com.example.jenkins
 
-import com.infinityworks.jenkins.pipelines.LibrariesPipeline
+import com.example.jenkins.pipelines.LibrariesPipeline
 
 /**
  This method is invoked by the developer indirectly without

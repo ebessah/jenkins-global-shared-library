@@ -1,4 +1,4 @@
-package com.infinityworks.jenkins.components
+package com.example.jenkins.components
 
 def test() {
     // Abstracting simple commands like this enables us to
