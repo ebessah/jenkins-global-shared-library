@@ -4,10 +4,10 @@ def libraryPipeline() {
     node {
         pipeline {
             stage('Run a test') {
-                sh
+                echo "Running a test"
             }
             stage('Build JAR') {
-                maven.package()
+                echo "Building a jar"
             }
         }
     }
