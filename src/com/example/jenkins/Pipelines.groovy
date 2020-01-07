@@ -7,6 +7,7 @@ import com.example.jenkins.pipelines.LibrariesPipeline
  having any visibility of how that pipeline is constructed
  */
 def libraryPipeline() {
+    echo "Library Pipeline execution started"
     LibrariesPipeline pipeline = new LibrariesPipeline()
     pipeline.libraryPipeline()
 }
